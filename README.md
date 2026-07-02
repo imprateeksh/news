@@ -1,12 +1,20 @@
 # 🌍 Daily Trends  
 
-📅 **Date:** 2026-07-01 (Wednesday)  
-🕒 **Last Updated:** 10:02 UTC  
+📅 **Date:** 2026-07-02 (Thursday)  
+🕒 **Last Updated:** 09:25 UTC  
 
 ---
 
 ## 🧠 AI
-
+- [Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5)
+- [We’re Only Starting to Grasp the Pitfalls of Using A.I. at Work - The New York Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxORFFITnFHSGhKdWwyMUxnYmYxVmROZHpCSzloT2pOWUZCRFhFSlNURVQ5UWNMRXVURm9BeVNXNHhkcjhRSDdYaFBsYU9RMmphSVpGWjRaRXBmSTNhTXlsZl8wYU95SDUtdG5hQm8zSHUxRUdOWWM3cndhc3NfbUpmcFFPS2tEdEV2bzMwdjJGLS1NaktXbENEcFEtdw?oc=5)
+- [US Lifts Export Ban On Anthropic's Fable 5, Gives Limited Access To Mythos 5 - NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmpobXhBWEhWZGRQaWxVTXRDTlJBczU4dzNzR2ZGdl9UcHgxR25nMWtlUmdoRkNMdTVETjFmRTlNb3ZLOHREZjhVR2k5N1gxc0xxU1E2cHNsaURfVXltdDZwWk5XYjNvd2VmN3FhX0QyaXdzaXQ2aWIyeHV4MzJocFlmdnJrcVNhMFcwaURDWUc1dGFDQ0JwVFNhZWg1aVdfLU04cEtHdjJDcVlSejRKUHNPaVRXZkstYl9QTGI3Y2xKX3E4QXBz0gHPAUFVX3lxTE9GUlFsMnVidmUwOENwUWRHVHFqSE9fb05PYkI5dFRyLWotdHBGbGh3SFNsNm5DTmRKelF1cU1ENmpfaHZiNG9XaHJjNFk2Z3dWb3FmVkFfZ1d6OTJZQlBNcDdEdk9FUU54ay1MS1Jva2Zqd2J5TkpsNC0wSS1mQWVRSWVISjA2b1Jib1RKUE10T29fU3M5TlRVZ3BHaGhMOVdlYVRmZ01NZGlQNWpLb2ppM2pGbmxZTVdFbk9CRVRjQzl4Q0EzRHI1UzJ5ZVp1QQ?oc=5)
+- [AI studies 100 years of Sun images to track bright solar regions from the Kodaikanal Solar Observatory - PIB](https://news.google.com/rss/articles/CBMie0FVX3lxTFBmc05lajBxWkM0NGh3enBuM05xaTF2d1ZjNW5hNENjdFN5LU9NczNLeUNzdUtkdGJ4NDR2blZrZndhN0xnY2xGaG5oTkR4bW1JSHd4N1Z0VXpDNjl2QkVGZjFiYlpsbjI0UG5sTU5zSlBHYUlwS052ZnBxQQ?oc=5)
+- [Apple has put a price on the AI boom - The Hindu](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTllvY2pRVWx5MTIwV2RwX09TdG03bXRyanZpREMwN0VnSWxzeTBMVHAzd0x5aUZTNXJ6ajBNVVY1blVqNjBuenN6SmVjZnQ1UmE1aGU0RVpfSDFKUnJGVjlrRFdmY2xpLXFBZFJMTkFKQ3dycGp1dkpMYmotQ1JENWtSMGdnSkh5Y0FZandudWpJYjFGU2NIay03RElrYUZ5aml30gGqAUFVX3lxTE4xa2k4dHlQYzJsc1kwOHJhdGZ5WmJBdlpfbG9CLWN1c3NuX0lUa0FZWE83bDVpTTVmWDI5OEFHSnZWaFNBSlhCSEZVVS1US29IWGJfRGxRRTR3UE5HX2ExUDEwVzRXLUVab0lZQjlNZF9VMFNYYUNHR2tDejBGdV9MbzFMOUZiTmZ4ME1TeGROQXFIWDR3bTNxR0hXSk4ydFpYN3R0VGh0X3hn?oc=5)
 
 ## ☁️ Cloud
-
+- [Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5)
+- [NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout - NVIDIA Blog](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG5VZ3ZIYWdHOGRWV0FXRW9sYzYxX1c2dHhKRmVPY3JlNlpPcHdfUzA0RkstUi04WTl0dzFqdEUtalQ1NFM5WjNJb3c5cmdveTJibUhIRzJGMUV0OVRYSFBNb3pwSHRlYWdQVVhpRkZNWmtHMmhJclBSSWRWZW5fT0NTenVLY0lzdURVdHJZQjBjQVdUQkc0M1N0NkMzU19CRndHZW1kRDNfN1I3TmJCbm5uRUtjQmRwQ1E?oc=5)
+- [Meta weighs AI cloud business to sell excess compute capacity - Cloud Computing News](https://news.google.com/rss/articles/CBMihgFBVV95cUxNODFRcC05cnhKRVRPbWNUOGZZTXFuSnFQXzluS2luUDhnMC1mV2NNSk9QYVNTazh6MzdmSmFZcktfN01JZnpDU2FKb1JVcjVLS3Z1a05mUVk2NjFWdVEyV3d5ZnBNUTZTZWx1RjVnTEJxNURocEh2Wi14NzdHSkVIZFpXUUpzdw?oc=5)
+- [How AWS transformed IT by making cloud computing accessible to everyone - Euractiv](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblJYWl9kOWs4eTBzUnVORmliQVZZczJ4LW56dHNMdzllOVpScEZiRGh6eWEzdUI1aVFvMDZGdDRJR2VxMmstWnhxU3BkOE5kYm5vLU1uZkFWa181THRrRGdsZkN0bkVybDNZcmM3NURKUHQ4SXliQzBxcVZmLVE0WC1YR1JNRmlKZDlkOGJPVGZQRk04TEdhSmZ0QXpSR3U4TFR2SFFaM00?oc=5)
+- [Meta shares surge as report says company eyes cloud computing business - SME Futures](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTRWcWdEYlRwYkZSVWkwRW9SbnMzekhoVDItTENoLVpyTVRNanMwV3FhenRFWTdXMjVOQ1dKT0Q3cEk3Tml2Y21kUEZydldqZm9RSXVWVnNURXotQ0xqcXp5Z3N2eUhvWkZSZlR4UXdIbkcweVFIODIzOTB4OFF2ODlLbDV5NkJyMGItQXI2THloUVRjMkVPaEhR?oc=5)
